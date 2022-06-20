@@ -1,0 +1,13 @@
+/* CSS Datei */
+
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p1{
+    color: green;
+}
+
+#map { height: 400px; }
